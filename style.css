@@ -1,0 +1,50 @@
+li{
+    display: inline;
+    margin-top: 20px;    
+    margin-bottom: 20px; 
+    margin-left: 10px;   
+    margin-right: 10px;  
+    
+  }
+  
+  body{
+
+     font-family: 'Roboto', sans-serif;
+  
+}
+
+.title {
+    text-align:center;
+    color: red;
+}
+
+.footer  {
+
+    text-align: center;
+    
+}
+
+.formulaire {
+
+    text-align: center;
+}
+p{
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-bottom: 50px;
+    padding-right: 50px;
+}
+
+.img{
+    width: 300%; 
+  height: auto;
+
+
+}
+.let{
+    background-color: red;
+}
+
+  
+  
+  
